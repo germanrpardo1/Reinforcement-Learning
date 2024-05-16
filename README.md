@@ -1,7 +1,7 @@
 # Reinforcement-Learning
 Reinforcement learning course taken during my MSc degree at LSE.
 
-For the final project In this work we implemented a variety of models including Q-Learning, Double Q-Learning, Neural Fitted Q-Iteration, Deep Q-Network, Monte Carlo Tree search (with exploring starts) and AlphaGo Zero (with some variants and exploring starts) to solve the nxn multiple boards Tic-Tac-Toe which complexity is larger than the usual game. Our best model was that of Monte Carlo Tree Search, it learns very fast compared to the others and outperforms all of the other algorithms in just a short amount of training time. However, it was left for futur work to train for longer time the AlphaGo Zero algorithm.
+For the final project we implemented a variety of models including Q-Learning, Double Q-Learning, Neural Fitted Q-Iteration, Deep Q-Network, Monte Carlo Tree search (with exploring starts) and AlphaGo Zero (with some variants and exploring starts) to solve the nxn multiple boards Tic-Tac-Toe which complexity is larger than the usual game. Our best model was that of Monte Carlo Tree Search, it learns very fast compared to the others and outperforms all of the other algorithms in just a short amount of training time. However, it was left for futur work to train for longer time the AlphaGo Zero algorithm.
 
 
 Topics of the course include:
