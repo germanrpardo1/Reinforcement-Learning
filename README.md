@@ -14,5 +14,5 @@ Topics of the course include:
 6. Q-Learning type algorithms with function approximation: Q-Learning with linear function approximator, Fitted Q-Iteration, Deep Q-Network.
 7. Policy gradient methods: policy approximation, REINFORCE, actor-critic methods that combine policy function approximation with action-value function approximation.
 8. Model-Based Learning: Dyna-Q, Monte Carlo Tree Search, AlphaGo.
-9. Batch off-policy evaluation – importance sampling-based method, doubly robust method, marginalized importance sampling.
-10. Batch policy optimisation – recent advances in offline reinforcement learning algorithms.
+9. Batch off-policy evaluation: importance sampling-based method, doubly robust method, marginalized importance sampling.
+10. Batch policy optimisation: recent advances in offline RL algorithms.
